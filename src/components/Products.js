@@ -6,7 +6,7 @@ function Products() {
       <div className="left self-center">
         <h1 className="text-xl md:text-4xl font-semibold my-2">Craving <span className=" text-red-900">Burger?</span></h1>
         <h4 className="my-4 text-lg md:text-2xl">Lorem ipsum dolor sit.</h4>
-        <p className="font-thin">
+        <p className="font-thin leading-7">
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
           Ea obcaecati vero dignissimos minus esse culpa sunt alias in harum voluptatum?
         </p>
